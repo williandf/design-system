@@ -1,0 +1,2 @@
+import{A as t}from"./index.0baad4b1.js";import"./index.23375b2e.js";import"./iframe.23535fad.js";import"./index.842651da.js";import"./jsx-runtime.ce767eed.js";const l={title:"Data display/Avatar",component:t,args:{src:"https://github.com/williandf.png",alt:"Willian Del Freu"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,l as default};
+//# sourceMappingURL=Avatar.stories.520731a8.js.map
