@@ -16,11 +16,11 @@ export const CheckboxContainer = styled(Checkbox.Root, {
   alignItems: 'center',
   border: '2px solid $gray900',
 
-  '&(data-state="checked"]': {
+  '&[data-state="checked"]': {
     backgroundColor: '$ignite300',
   },
 
-  '&:focus': {
+  '&:focus, &[data-state="checked"]': {
     border: '2px solid $ignite300',
   },
 })
